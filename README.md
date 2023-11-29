@@ -1,1 +1,1 @@
-Customer segmentation of a shopping mall using K-Means clustering algorithm.
+Customer segmentation of a shopping mall using K-Means clustering algorithm - Identifying patterns among customers of different Age Group, Income and Spending Score, and segmenting them in clusters using K-Means Clustering Algorithm.
